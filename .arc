@@ -5,6 +5,7 @@ nature-5tm
 
 @http
 get /
+post /
 
 @tables
 data
