@@ -1,2 +1,0 @@
-# miniapp
-Begin app
